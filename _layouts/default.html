@@ -52,8 +52,9 @@
 
       <span class="banner-fix"></span>
 
-
+  
       <section id="main_content">
+        {% include toc.html content=page.content skip_toc=page.skip_toc%}
         {{ content }}
       </section>
 
