@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Staff
+title: Relikte
 ---
-<h1>Staff</h1>
+<h1>Relikte</h1>
 
 <ul>
   {% for relic in site.relics %}
     <li>
-      <h2>{{ relics.name }}</h2>
-      <h3>{{ relics.position }}</h3>
-      <p>{{ relics.content | markdownify }}</p>
+      <h2>{{ relic.name }}</h2>
+      <h3>{{ relic.position }}</h3>
+      <p>{{ relic.content | markdownify }}</p>
     </li>
   {% endfor %}
 </ul>
