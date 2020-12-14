@@ -3,5 +3,7 @@ show_downloads: false
 title: Hastol-Kampagnenübersicht
 description: Eine kleine Übersicht über die Kampagne, zusammen mit Loot-table, Tagebuch und wissenswerten Dingen.
 collections:
-  rules:
+  relicts:
+    output: true
+  orga:
     output: true
