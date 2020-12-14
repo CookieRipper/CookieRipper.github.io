@@ -1,5 +1,4 @@
 ---
-layout: default
 title: TEST
 ---
 <div class="blurb">
