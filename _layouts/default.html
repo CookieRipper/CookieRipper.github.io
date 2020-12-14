@@ -34,7 +34,6 @@
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
-        {% include navigation.html %}
       </header>
 
       {% if site.show_downloads %}
@@ -55,6 +54,7 @@
 
       
       <section id="main_content">
+        {% include navigation.html %}
         {{ content }}
       </section>
 
