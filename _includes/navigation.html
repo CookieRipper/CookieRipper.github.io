@@ -1,7 +1,7 @@
 <nav style="padding-left: 10%; padding-right: 10%; border-top: 3px solid #668BCC; border-bottom: 3px solid #668BCC; margin: 0;">
   {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" style="padding: 4px 8px; color: black; border: 1px solid black; ">
+    <b><a href="{{ item.link }}" style="padding: 4px 8px; color: black;">
       {{ item.name }}
-    </a>
+      </a></b>
   {% endfor %}
 </nav>
