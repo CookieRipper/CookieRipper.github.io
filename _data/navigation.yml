@@ -1,6 +1,8 @@
 - name: Home
-  link: /
+  url: /
+
 - name: Timeline
-  link: /timeline.html
+  url: /timeline.html
+  
 - name: Relikte
-  link: /relikte.html
+  url: /relikte.html
