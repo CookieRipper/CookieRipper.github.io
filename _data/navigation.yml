@@ -1,8 +1,8 @@
-- name: Home
+- title: Home
   url: /
 
-- name: Timeline
+- title: Timeline
   url: /timeline.html
   
-- name: Relikte
+- title: Relikte
   url: /relikte.html
