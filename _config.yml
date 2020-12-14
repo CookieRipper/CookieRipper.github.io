@@ -7,6 +7,9 @@ collections:
     output: true
   orga:
     output: true
+relative_links:
+  enabled: true
+  collections: true
 
 defaults:
   - scope:
