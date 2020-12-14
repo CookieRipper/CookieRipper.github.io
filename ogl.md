@@ -1,4 +1,4 @@
-** OPEN GAME LICENSE Version 1.0a **
+**OPEN GAME LICENSE Version 1.0a**
 
 The following text is the property of Wizards of the Coast, Inc. and is
 Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
@@ -111,10 +111,10 @@ necessary to make it enforceable.
 15. COPYRIGHT NOTICE Open Game License v 1.0 Copyright 2000, Wizards of
 the Coast, Inc.
 
-** System Reference Document. ** Copyright 2000, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
+**System Reference Document.** Copyright 2000, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
 
-** Product Identity: **
+**Product Identity:**
 The following items are hereby identified as Product Identity, as defined in the Open Game License version 1.0a, Section 1(e), and are not Open Game Content: All trademarks, registered trademarks, proper nouns (characters, deities, locations, etc., as well as all adjectives, names, titles, and descriptive terms derived from proper nouns), Chapter 8 (with the exception of domains), artworks, characters, dialogue, locations, organizations, plots, storylines, and trade dress. (Elements that have previously been designated as Open Game Content, or are exclusively derived from previous Open Game Content, or that are in the public domain are not included in this declaration.)
 
-** Open Game Content: **
+**Open Game Content:**
 Except for material designated as Product Identity or External Tools (see above), the game mechanics of this Paizo game product are Open Game Content, as defined in the Open Game License version 1.0a, Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without written permission
