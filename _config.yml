@@ -10,7 +10,7 @@ collections:
 relative_links:
   enabled: true
   collections: true
-
+future: true
 defaults:
   - scope:
       path: ""
