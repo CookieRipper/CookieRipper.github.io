@@ -10,14 +10,14 @@
 
 <!-- Then we build the nav bar. -->
 <nav>
-    <ul>
+    <ul style="margin:0; padding:0;" >
     {% for entry in site.data.navigation %}
         {% if entry.url == current_page %}
             <!-- uses yellow, you can change to any other hexadecimal colour code. -->
-            {% assign current = ' style="background-color: #FFFFFF"' %}
+            {% assign current = ' style="background-color: #FFFFFF; display:block; float:left; padding:0 10px;"' %}
         {% else %}
             <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
-            {% assign current = null %}
+            {% assign current = ' style="background-color: #0000FF; display:block; float:left; padding:0 10px;"' %}
         {% endif %}
         {% assign sublinks = entry.sublinks %}
         {% if sublinks %}
