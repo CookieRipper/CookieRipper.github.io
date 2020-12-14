@@ -1,0 +1,15 @@
+---
+layout: default
+title: Staff
+---
+<h1>Staff</h1>
+
+<ul>
+  {% for author in site.relics %}
+    <li>
+      <h2>{{ relics.name }}</h2>
+      <h3>{{ relics.position }}</h3>
+      <p>{{ relics.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
