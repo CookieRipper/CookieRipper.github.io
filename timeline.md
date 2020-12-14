@@ -3,7 +3,7 @@ layout: default
 title: Timeline
 ---
 <h1>Timeline</h1>
-<h4>Was bisher geschah.</h4>
+<b>Was bisher geschah.</b>
 
 <ul>
   {% for post in site.posts %}
