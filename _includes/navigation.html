@@ -14,7 +14,7 @@
     {% for entry in site.data.navigation %}
         {% if entry.url == current_page %}
             <!-- uses yellow, you can change to any other hexadecimal colour code. -->
-            {% assign current = ' style="color: #FF0000; background-color: rgba(124, 51, 79, 0.73); border-radius: 3px; display:block; float:left; padding:0 10px;"' %}
+            {% assign current = ' style="color: #FF0000; background-color: rgba(255, 255, 255, 0.73); border-radius: 3px; display:block; float:left; padding:0 10px;"' %}
         {% else %}
             <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
             {% assign current = ' style="color: #000000; display:block; float:left; padding:0 10px;"' %}
