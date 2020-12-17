@@ -23,5 +23,10 @@ defaults:
       layout: "relics"
   - scope:
       path: ""
+      type: "characters"
+    values:
+      layout: "characters"
+  - scope:
+      path: ""
     values:
       layout: "default"
