@@ -8,6 +8,7 @@ aura: Celestisch/Feuer
 ### Vergeltung
 
 **Aktivieren:** 2 Aktionen (Befehl)
+
 **Effekt:**
 
 Suche dir ein Ziel, was dir oder einem Verbündeten in der vergangenen Runde geschadet hat.
