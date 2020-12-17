@@ -7,8 +7,7 @@ title: char
 <ul>
   {% for char in site.characters %}
     <li>
-      <h2><a href="{{ char.url }}">{{ char.name }}</a></h2>
-      <h3>{{ char.player }}</h3>
+      <h2><a href="{{ char.url }}">{{ char.name }}</a> - {{ char.player }}</h2>
     </li>
   {% endfor %}
 </ul>
