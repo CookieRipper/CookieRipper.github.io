@@ -63,7 +63,7 @@
 		<p><span style="font-weight:bold;">Herkunft:</span> {{ page.ancestry }}</p>
 		<p><span style="font-weight:bold;">Klasse:</span> {{ page.class }}</p>
 		</div>
-		<div>
+		<div style="float: right;">
 		{% if page.img And page.img != "" And page.img != nil %}
 			<img src="{{site.baseurl}}/assets/img/{{page.img}}" ALIGN=”right” height="200px" width="200px" border="1px">
 		{% else %}
