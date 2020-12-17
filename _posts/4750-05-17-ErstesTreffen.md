@@ -19,7 +19,7 @@ Die folgende Notiz wurde bei ihm gefunden:
 > Kralle, du musst nach Rabenwacht und das Versteck deines Vaters suchen. Dieser Bastard ist damals einfach mit der Beute verschwunden und hat uns im Kerker verrotten lassen. Mittlerweile hat der Alte Kauz sicherlich das zeitliche gesegnet, am besten beginnst du auf dem Friedhof."
 
 Es dauerte nicht lange und die Gruppe fand einen versteckten Eingang unterhalb einer unfertigen Krypta in der Mitte des Friedhofes.
-Ein alter Gang kam zum Vorschein, es schien als wurde er schon vor Jahrhunderten angelegt. Ohne Licht konnte man kaum mehr als eine Armlänge weit sehen, nur vereinzelte leuchtende Pilze in den von Moos und Schlamm bedeckten Wänden ließen ungefähr erahnen, dass hier ein Weg existierte. Der Gang wurde von einer Metalltür versperrt. Ohne große Schwierigkeiten konnte der Schurke der Gruppe [Loras]({{ site.baseurl }}{% link character/loras.md %}) die Tür aufschließen. Leider übersah er dabei eine kleine Giftfalle und die Nadel traf ihn genau in den Handrücken.
+Ein alter Gang kam zum Vorschein, es schien als wurde er schon vor Jahrhunderten angelegt. Ohne Licht konnte man kaum mehr als eine Armlänge weit sehen, nur vereinzelte leuchtende Pilze in den von Moos und Schlamm bedeckten Wänden ließen ungefähr erahnen, dass hier ein Weg existierte. Der Gang wurde von einer Metalltür versperrt. Ohne große Schwierigkeiten konnte der Schurke der Gruppe [Loras]({{ site.baseurl }}{% link _character/loras.md %}) die Tür aufschließen. Leider übersah er dabei eine kleine Giftfalle und die Nadel traf ihn genau in den Handrücken.
 
 Nach einer kurzen Behandlung von Loras entdeckte die Gruppe einen alten verlassenen Raum hinter einer Gabelung. Drei widerwärtige Ghoule griffen die Gruppe an und lieferten einen erbitterten Kampf, der einiges an Ressourcen aufbrauchte. Doch auch diese Gegner konnten problemlos ausgeschalten werden.
 
@@ -56,7 +56,7 @@ Nach weiterer Untersuchung der Krypta offenbarte sich ein gewaltbereiter und fur
 
 > "Ihr habt das Ritual vollendet. Gut, nun kann ich euch die Macht abnehmen und endlich in mein Leben zurück kommen."
 
-Während die Gruppe noch mit der geisterhaften Erscheinung verhandelt, kommt der Magier [Elundriel]({{ site.baseurl }}{% link character/elundriel.md %}) auf die geniale Idee, das Forschungstagebuch zu Asche zu verwandeln und somit das Wesen zu bannen.
+Während die Gruppe noch mit der geisterhaften Erscheinung verhandelt, kommt der Magier [Elundriel]({{ site.baseurl }}{% link _character/elundriel.md %}) auf die geniale Idee, das Forschungstagebuch zu Asche zu verwandeln und somit das Wesen zu bannen.
 
 Froh und Munter verließen die Abenteurer die Krypta und begaben sich auf den Weg zurück nach Rabenwacht.
 

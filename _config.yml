@@ -7,6 +7,8 @@ collections:
     output: true
   orga:
     output: true
+  character:
+    output: true
 relative_links:
   enabled: true
   collections: true
