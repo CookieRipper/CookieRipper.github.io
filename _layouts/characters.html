@@ -57,14 +57,14 @@
         {% include navigation.html %}
 		<br>
 		<div>
-		<div style="float: left;">
+		<div style="float: left; width: 40%;">
 		<p><span style="font-weight:bold;">Name:</span> {{ page.name }}</p>
 		<p><span style="font-weight:bold;">Spieler:</span> {{ page.player }}</p>
 		<p><span style="font-weight:bold;">Level:</span> {{ page.level }}</p>
 		<p><span style="font-weight:bold;">Herkunft:</span> {{ page.ancestry }}</p>
 		<p><span style="font-weight:bold;">Klasse:</span> {{ page.class }}</p>
 		</div>
-		<div style="float: right;">
+		<div style="float: right; width: 60%;">
 		{% if page.img And page.img != "" And page.img != nil %}
 			<img src="{{site.baseurl}}/assets/img/{{page.img}}" ALIGN=”right” height="200px" width="200px" border="1px">
 		{% else %}
