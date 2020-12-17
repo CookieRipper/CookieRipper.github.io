@@ -56,16 +56,18 @@
       <section id="main_content">
         {% include navigation.html %}
 		<br>
+		<div style="float: left;">
+		<p><span style="font-weight:bold;">Name:</span> {{ page.name }}</p>
+		<p><span style="font-weight:bold;">Spieler:</span> {{ page.player }}</p>
+		<p><span style="font-weight:bold;">Level:</span> {{ page.level }}</p>
+		<p><span style="font-weight:bold;">Herkunft:</span> {{ page.ancestry }}</p>
+		<p><span style="font-weight:bold;">Klasse:</span> {{ page.class }}</p>
+		</div>
 		<div>
-		<p style="float: left;"><span style="font-weight:bold;">Name:</span> {{ page.name }}</p>
-		<p style="float: left;"><span style="font-weight:bold;">Spieler:</span> {{ page.player }}</p>
-		<p style="float: left;"><span style="font-weight:bold;">Level:</span> {{ page.level }}</p>
-		<p style="float: left;"><span style="font-weight:bold;">Herkunft:</span> {{ page.ancestry }}</p>
-		<p style="float: left;"><span style="font-weight:bold;">Klasse:</span> {{ page.class }}</p>
 		{% if page.img And page.img != "" And page.img != nil %}
-			<img src="{{site.baseurl}}/assets/img/{{page.img}}" ALIGN=”right” height="200px" width="100px" border="1px">
+			<img src="{{site.baseurl}}/assets/img/{{page.img}}" ALIGN=”right” height="200px" width="200px" border="1px">
 		{% else %}
-			<img src="{{site.baseurl}}/assets/img/char.png" ALIGN=”right” height="200px" width="100px" border="1px">
+			<img src="{{site.baseurl}}/assets/img/char.png" ALIGN=”right” height="200px" width="200px" border="1px">
 		{% endif %}
 		</div>
 		<hr>
