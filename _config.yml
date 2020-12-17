@@ -9,7 +9,6 @@ collections:
     output: true
   character:
     output: true
-    permalink: /:collection/:name
 relative_links:
   enabled: true
   collections: true
