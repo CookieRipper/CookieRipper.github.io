@@ -1,6 +1,8 @@
 ---
-short_name: ted
-name: Ted Doe
-position: Writer
+name: ted
+player: John Doe
+type: Quill
+level: 1
+aura: unglaublich gutaussehend
 ---
-Ted has been eating fruit since he was baby.
+Teddy is nice

@@ -14,9 +14,9 @@ future: true
 defaults:
   - scope:
       path: ""
-      type: "authors"
+      type: "relics"
     values:
-      layout: "author"
+      layout: "relics"
   - scope:
       path: ""
     values:
