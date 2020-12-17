@@ -1,0 +1,23 @@
+---
+layout: default
+title: char
+---
+<h1>Charaktere</h1>
+
+<ul>
+  {% for char in site.characters %}
+    <li>
+      <h2><a href="{{ char.url }}">{{ char.name }}</a></h2>
+      <h3>{{ char.player }}</h3>
+    </li>
+  {% endfor %}
+</ul>
+
+<h1>NPCs</h1>
+<ul>
+  {% for npc in site.npcs %}
+    <li>
+      <h2><a href="{{ npc.url }}">{{ npc.name }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>

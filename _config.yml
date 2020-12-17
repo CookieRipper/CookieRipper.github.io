@@ -7,7 +7,9 @@ collections:
     output: true
   orga:
     output: true
-  character:
+  characters:
+    output: true
+  npcs:
     output: true
 relative_links:
   enabled: true
