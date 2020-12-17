@@ -9,9 +9,9 @@ description: Auf dieser Seite findet ihr sämtlichen von mir ausgegebenen Loot. 
 
 #### Loot Tabelle
 
-| Gegenstand                            | [VK-Preis] (je) | Last (je) | Effekt |
+| Gegenstand                            | Verk.-Preis (je) | Last (je) | Effekt |
 | ------------------------------------- | --------- | ------------ | ------ |
-| Wachensold                            | 6 GM      | -            | -      |
+| Wachensold                            | 6 GM | -            | -      |
 | Wurfhaken                             | 5 KM | L | [PRD](https://prd.pathfinder2.de/doku.php?id=gegenstand&name=Wurfhaken) |
 | Bastardschwert                        | 2 GM | 1 | [PRD](https://prd.pathfinder2.de/doku.php?id=gegenstand&name=Bastardschwert) |
 | Sichel                                | 1 SM | L | [PRD](https://prd.pathfinder2.de/doku.php?id=gegenstand&name=Sichel) |
