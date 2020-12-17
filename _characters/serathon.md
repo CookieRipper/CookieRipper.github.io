@@ -5,6 +5,7 @@ level: 1
 ancestry: Zwerg
 class: Barbar
 zitat: CHAAAARRGGEEE
+img: serathon.png
 ---
 
 
