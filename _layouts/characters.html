@@ -62,9 +62,9 @@
 		<p><span style="font-weight:bold;">Herkunft:</span> {{ page.ancestry }}</p>
 		<p><span style="font-weight:bold;">Klasse:</span> {{ page.class }}</p>
 		{% if page.img And page.img != "" And page.img != nil %}
-			<img src="{{site.baseurl}}/assets/img/{{page.img}}">
+			<img src="{{site.baseurl}}/assets/img/{{page.img}}" ALIGN=”right”>
 		{% else %}
-			<img src="{{site.baseurl}}/assets/img/char.png">
+			<img src="{{site.baseurl}}/assets/img/char.png" ALIGN=”right”>
 		{% endif %}
 		<hr>
         {{ content }}
