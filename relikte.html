@@ -7,9 +7,8 @@ title: Relikte
 <ul>
   {% for relic in site.relics %}
     <li>
-      <h2>{{ relic.name }}</h2>
-      <h3>{{ relic.position }}</h3>
-      <p>{{ relic.content | markdownify }}</p>
+      <h2><a href="{{ relic.url }}">{{ relic.name }}</a></h2>
+      <h3>{{ relic.player }}</h3>
     </li>
   {% endfor %}
 </ul>
