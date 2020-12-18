@@ -1,0 +1,14 @@
+---
+layout: default
+title: Lore
+---
+<h1>Lore und Bekanntes</h1>
+
+<ul>
+  {% for thing in site.lore %}
+    <li>
+      <h2><a href="{{ thing.url }}">{{ thing.title }}</a></h2>
+	  <p>{{ thing.summary }}</p>
+    </li>
+  {% endfor %}
+</ul>

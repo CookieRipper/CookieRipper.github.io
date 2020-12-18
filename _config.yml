@@ -5,7 +5,7 @@ description: Eine kleine Übersicht über die Kampagne, zusammen mit Loot-table,
 collections:
   relics:
     output: true
-  orga:
+  lore:
     output: true
   characters:
     output: true
