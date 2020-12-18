@@ -57,13 +57,13 @@
         {% include navigation.html %}
 			</ br>
 			<div>
-				<div style="float: left;margin: 2%; width: 60%">
+				<div style="float: left;margin: 2%; width: 48%">
 					<p><span style="font-weight:bold;">Name:</span> {{ page.name }}</p>
 					<p><span style="font-weight:bold;">Herkunft:</span> {{ page.ancestry }}</p>
 					<p><span style="font-weight:bold;">Aussehen:</span> {{ page.look }}</p>
 					<p><span style="font-weight:bold;">Besonderheit:</span> {{ page.special }}</p>
 				</div>
-				<div style="float: right;">
+				<div style="float: right;width: 50%"">
 				{% if page.img And page.img != "" And page.img != nil %}
 					<img src="{{site.baseurl}}/assets/img/{{page.img}}" ALIGN=”right” height="200px" width="200px" border="1px">
 				{% else %}
