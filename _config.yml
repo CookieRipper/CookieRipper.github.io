@@ -28,5 +28,10 @@ defaults:
       layout: "characters"
   - scope:
       path: ""
+      type: "npcs"
+    values:
+      layout: "npcs"
+  - scope:
+      path: ""
     values:
       layout: "default"
