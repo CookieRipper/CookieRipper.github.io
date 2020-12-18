@@ -4,7 +4,7 @@ ancestry: Mensch
 look: "Alter bärtiger und gepflegter Mensch. Er ist außergewöhnlich groß für einen Menschen und trotz seines mittlerweile hohen Alters noch recht stämmig und fit."
 special: "Volksheld der Menschen und Imperator"
 zitat: "Für eine freie Welt und den Ruhm der Schlacht!"
-img: 
+img: artorius.png
 ---
 
 
