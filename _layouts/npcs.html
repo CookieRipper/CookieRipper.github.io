@@ -56,21 +56,17 @@
       <section id="main_content">
         {% include navigation.html %}
 		<br>
-			<hr>
+		<br>
 			<div>
-				<div style="float: left;margin: 2%; width: 48%">
+				{% if page.img And page.img != "" And page.img != nil %}
+					<img src="{{site.baseurl}}/assets/img/{{page.img}}" ALIGN=”right” height="200px" width="200px" border="1px" style="float: right;margin: 5%">
+				{% else %}
+					<img src="{{site.baseurl}}/assets/img/char.png" ALIGN=”right” height="200px" width="200px" border="1px" style="float: right;margin: 5%">
+				{% endif %}
 					<p><span style="font-weight:bold;">Name:</span> {{ page.name }}</p>
 					<p><span style="font-weight:bold;">Herkunft:</span> {{ page.ancestry }}</p>
 					<p><span style="font-weight:bold;">Aussehen:</span> {{ page.look }}</p>
 					<p><span style="font-weight:bold;">Besonderheit:</span> {{ page.special }}</p>
-				</div>
-				<div style="float: right;margin-top: 5%"">
-				{% if page.img And page.img != "" And page.img != nil %}
-					<img src="{{site.baseurl}}/assets/img/{{page.img}}" ALIGN=”right” height="200px" width="200px" border="1px">
-				{% else %}
-					<img src="{{site.baseurl}}/assets/img/char.png" ALIGN=”right” height="200px" width="200px" border="1px">
-				{% endif %}
-				</div>
 				<div style="clear: both;">
 					<hr>
 						{{ content }}
