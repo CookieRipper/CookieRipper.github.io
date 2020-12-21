@@ -13,7 +13,7 @@ Es befindet sich zentral auf dem Kontinent und  wird von der Hautpstadt Thalburg
 
 Hauptsächlich wird das Imperium von Menschen und deren Abkömmlingen bevölkert. Vereinzelt lassen sich auch Vertreter anderer Abstammungen und Splittergruppen antreffen. Ein Großteil der menschlichen Bevölkerung ist mit der realen in Zentraleuropa gleichzusetzen, wobei die nördlichen Gebiete von den *Berserkir* bewohnt werden. 
 
- ### Entstehung
+### Entstehung
 
 Das Imperium ist ein junges Reich kaum älter als 100 Jahre. Es entstand als Notwendigkeit und als Antwort auf die erste dämonische Welle, welche Hastol in diesem Zeitraum heimsuchte und den südlichen Teil des Kontinentes, die Arā Ahi Wüste, zerstörte.
 
