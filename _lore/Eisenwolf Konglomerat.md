@@ -17,7 +17,7 @@ Dies ist ein sehr aufwendiger Prozess und beinhaltet weiterhin mehrere Verträge
 
 Über die Entstehung des Konglomerates ist nur wenig bekannt, lediglich eine endlose Anzahl von staubigen Folianten mit den ersten schriftlich verfassten Verträgen zwischen den einzelnen Sippen zeugt von den Anfangstagen. 
 
-Der erste Vertrag wird in einem Tresor in der größten noch bewohnten Zwergenfestung *Thornhall* in einem Tresor aufbewahrt. Er wird wie ein Heiligtum geschützt und so heißt es zumindest, dass es bisher noch keinem gelungen ist, ohne entsprechende Befugnis den Vertrag überhaupt zu Gesicht zu bekommen.
+Der erste Vertrag wird in der größten noch bewohnten Zwergenfestung *Thornhall* in einem Tresor aufbewahrt. Er wird wie ein Heiligtum geschützt und so heißt es zumindest, dass es bisher noch keinem gelungen ist, ohne entsprechende Befugnis den Vertrag überhaupt zu Gesicht zu bekommen.
 
 ##### Entstehungsmythos
 
@@ -41,19 +41,19 @@ Andere Zwerge leben in den (Hoch-)Ebenen außerhalb des Kerneinflussgebietes des
 
 ### Militär
 
-Die Zwerge sind eine stolze Kriegerrassen, die ihre Heimat schon früh gegen Riesen und Trolle verteidigen mussten. 
+Die Zwerge sind eine stolze Kriegerrasse, die ihre Heimat schon früh gegen Riesen und Trolle verteidigen musste. 
 
 Aus dieser Not heraus, haben sie einzigartige Taktiken für den Kampf in bergigen Regionen und engen Gängen entwickelt.
 
 Nichtsdestotrotz sind die vereinten Streitkräfte des Konglomerates auch auf offenem Feld nicht zu unterschätzen, da durch ihre Nähe zur Erde und der generellen Standhaftigkeit eines Zwerges ihre Frontlinie eine scheinbar unüberwindbare Mauer darstellt.
 
-Die Zwerge kämpfen hauptsächlich im Nahkampf mit schweren Äxten, Schwertern und Schilden. Während die Unterstützung von hinten mit Zaubern ihre Reihen verstärkt. Wenn ein nicht Magiebegabter Zwerg im Fernkampf antritt, dann oft mit mechanischen Fernkampfwaffen, wie einer Armbrust oder Balliste, welche die Rüstungen von Gegnern durchschlägt. 
+Die Zwerge kämpfen hauptsächlich im Nahkampf mit schweren Äxten, Schwertern und Schilden. Während die Unterstützung mit Zaubern von hinten ihre Reihen verstärkt. Wenn ein nicht magiebegabter Zwerg im Fernkampf antritt, dann oft mit mechanischen Fernkampfwaffen, wie einer Armbrust oder Balliste, welche die Rüstungen von Gegnern durchschlägt. 
 
 Durch ihre Handwerkskunst, können Sie außerdem allerlei Kriegsgeräte in außergewöhnlich hoher Geschwindigkeit und Qualität herstellen, allerdings überlassen sie das austüfteln der Gerätschaften häufig lieber den kreativeren Gnomen.
 
 ### Ökonomie
 
-Als hauptsächliche Einnahmequelle des Konglomerats lässt sich wohl der Handel mit Erzen und Steinkunst betiteln. Durch ihre in die Stein gehauenen Festungen und Städte sind die Zwerge oft nahe an den Bodenschätzen und Experten auf ihrem Gebiet. Nicht selten werden auch Zwerge zu Mineneröffnungen und Bauprojekten auf dem gesamten Kontinent hinzugeholt, um ihre Expertise kundzutun. Natürlich erhält das Konglomerat stets einen angemessenen Anteil.
+Als hauptsächliche Einnahmequelle des Konglomerats lässt sich wohl der Handel mit Erzen und Steinkunst betiteln. Durch ihre in den Stein gehauenen Festungen und Städte sind die Zwerge oft nahe an den Bodenschätzen und Experten auf ihrem Gebiet. Nicht selten werden auch Zwerge zu Mineneröffnungen und Bauprojekten auf dem gesamten Kontinent hinzugeholt, um ihre Expertise zu teilen. Natürlich erhält das Konglomerat stets einen angemessenen Anteil.
 
 Weiterhin werden zwergische Schmiedearbeiten, vor allem beim Militär sehr geschätzt, jedoch ist ihr oft grober Stil und die Bevorzugung von schweren Waffen und Rüstungen nicht jedermanns Sache.
 
@@ -71,7 +71,7 @@ Seit jeher hat ein Mitglied (häufig der oder die Älteste) des Eisenwolf-Clans 
 
 Dieses Verhalten ist durchaus gewollt und auch Absprachen zwischen den einzelnen Clans bei Abstimmungen werden toleriert, solange die Interessen des Konglomerates gewahrt werden und kein beteiligter Zwergenclan dabei offen zu Schaden kommt.
 
-Auch wenn viele Außenseiter dies nicht wissen, aber nicht jeder Clan besetzt eine Position innerhalb des Vorstandes des Konglomerats. Es gibt viele verprenkelte kleine Zwergenclans, die sich einem "Höhergestellten" untergeordnet haben, um Ihre Interessen zu vertreten.
+Auch wenn viele Außenseiter dies nicht wissen, aber nicht jeder Clan besetzt eine Position innerhalb des Vorstandes des Konglomerats. Es gibt viele versprengtet kleine Zwergenclans, die sich einem "Höhergestellten" untergeordnet haben, um Ihre Interessen zu vertreten.
 
 Aktuell besteht der Vorstand des Konglomerates aus den folgenden Positionen:
 
@@ -85,7 +85,7 @@ Aktuell besteht der Vorstand des Konglomerates aus den folgenden Positionen:
 - Außenpolitik -TBA
 - Innenpolitik - TBA
 
-##### Clans:
+##### Die wichtigsten Clans:
 - **Eisenwölfe**
 	Die Eisenwölfe sind bekannter Maßen ein grimmiger Haufen von Erzschürfern und Minenarbeitern und stellen somit das Herzstück des Konglomerates dar. Zu Zeiten der ersten und zweiten Welle, haben sie einen großen Anteil des Erzes geliefert, welches für die Ausrüstung der Streitkräfte von Zwergen und Menschen benötigt wurde und somit ihre Position als Vorsitz des Konglomerates weiter gestärkt.
 - **Riesenhammer**
