@@ -86,12 +86,14 @@ Aktuell besteht der Vorstand des Konglomerates aus den folgenden Positionen:
 - Innenpolitik - TBA
 
 ##### Die wichtigsten Clans:
-- **Eisenwölfe**
-	Die Eisenwölfe sind bekannter Maßen ein grimmiger Haufen von Erzschürfern und Minenarbeitern und stellen somit das Herzstück des Konglomerates dar. Zu Zeiten der ersten und zweiten Welle, haben sie einen großen Anteil des Erzes geliefert, welches für die Ausrüstung der Streitkräfte von Zwergen und Menschen benötigt wurde und somit ihre Position als Vorsitz des Konglomerates weiter gestärkt.
-- **Riesenhammer**
-	Die Riesenhammer sind ein Kriegerclan wie er im Buche steht. In ihren Reihen wird eine besondere Kampftechnik geschult, welche speziell gegen größere Feinde ihre besondere Wirkung entfaltet. Diese Technik und die besondere Stellung der Gewaltigen Festung *Thornhall* und des Mythos um *Doran Riesenhammer* machen Sie zu einem äußerst einflussreichen und mächtigen Clan innerhalb des Konglomerates.
-- **Bernsteinhammer**
-	Als Bernsteinhammer geboren ist man der Magie der Erde und des Feuers oft sehr Nahe. Dieser Clan bringt eine außergewöhnlich hohe Anzahl an Klerikern, Zauberern und anderen Magiebegabten zur Welt. Es wird gemunkelt, dass die frühen Mitglieder der Bernsteinhammer Torag, dem Zwergenvater - Gott des Steins, besonders nahe standen und er daher den Clan segnete. Böse Zungen widerrum behaupten, die Bernsteinhämmer hätten ihr zwergisches Blut durch die Kreuzung mit Bewohnern der Elementarebenen besudelt. Nichtsdestotrotz sind die Bernsteinhammer gerade bei magischen Problemen immer gerne gesehen und waren eine enorme Hilfe im Kampf gegen den *Dämonischen Vorstoß*.
+###### Eisenwölfe
+Die Eisenwölfe sind bekannter Maßen ein grimmiger Haufen von Erzschürfern und Minenarbeitern und stellen somit das Herzstück des Konglomerates dar. Zu Zeiten der ersten und zweiten Welle, haben sie einen großen Anteil des Erzes geliefert, welches für die Ausrüstung der Streitkräfte von Zwergen und Menschen benötigt wurde und somit ihre Position als Vorsitz des Konglomerates weiter gestärkt.
+
+###### Riesenhammer
+Die Riesenhammer sind ein Kriegerclan wie er im Buche steht. In ihren Reihen wird eine besondere Kampftechnik geschult, welche speziell gegen größere Feinde ihre besondere Wirkung entfaltet. Diese Technik und die besondere Stellung der Gewaltigen Festung *Thornhall* und des Mythos um *Doran Riesenhammer* machen Sie zu einem äußerst einflussreichen und mächtigen Clan innerhalb des Konglomerates.
+
+###### Bernsteinhammer
+Als Bernsteinhammer geboren ist man der Magie der Erde und des Feuers oft sehr Nahe. Dieser Clan bringt eine außergewöhnlich hohe Anzahl an Klerikern, Zauberern und anderen Magiebegabten zur Welt. Es wird gemunkelt, dass die frühen Mitglieder der Bernsteinhammer Torag, dem Zwergenvater - Gott des Steins, besonders nahe standen und er daher den Clan segnete. Böse Zungen widerrum behaupten, die Bernsteinhämmer hätten ihr zwergisches Blut durch die Kreuzung mit Bewohnern der Elementarebenen besudelt. Nichtsdestotrotz sind die Bernsteinhammer gerade bei magischen Problemen immer gerne gesehen und waren eine enorme Hilfe im Kampf gegen den *Dämonischen Vorstoß*.
 
 - tba
 - ...
